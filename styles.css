@@ -1,0 +1,1088 @@
+:root {
+    --blue: #3b3bda;
+    --red: #ff0000;
+    --beige: #cfcf9f;
+    --black: #000000;
+    --white: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    position: relative;
+    max-width: 50em;
+    height: 99.5vh;
+    margin: auto;
+    border: 1px solid;
+}
+
+.block {
+    position: absolute;
+    width: 1.25em;
+    height: 1.25em;
+}
+
+.blue {
+    background-color: var(--blue);
+}
+
+.red {
+    background-color: var(--red);
+}
+
+.beige {
+    background-color: var(--beige);
+}
+
+.black {
+    background-color: var(--black);
+}
+
+.white {
+    background-color: var(--white);
+    border: 1px solid black;
+}
+
+#b1 {
+    top: 0;
+    left: 50px;
+}
+
+#b2 {
+    top: 0;
+    left: 70px;
+}
+
+#b3 {
+    top: 0;
+    left: 90px;
+}
+
+#b4 {
+    top: 0;
+    left: 110px
+}
+
+#b5 {
+    top: 0;
+    left: 130px;
+}
+
+#b6 {
+    top: 0;
+    left: 150px;
+}
+
+#b7 {
+    top: 0;
+    left: 170px;
+}
+
+#b8 {
+    top: 0;
+    left: 190px;
+}
+
+#b9 {
+    top: 0;
+    left: 210px;
+}
+
+#b10 {
+    top: 0;
+    left: 230px;
+}
+
+#b11 {
+    top: 0;
+    left: 250px;
+}
+
+#b12 {
+    top: 0;
+    left: 270px;
+}
+
+#b13 {
+    top: 20px;
+    left: 290px;
+}
+
+#b14 {
+    top: 20px;
+    left: 310px;
+}
+
+#b15 {
+    top: 20px;
+    left: 330px;
+}
+
+#b16 {
+    top: 0;
+    left: 350px;
+}
+
+#b17 {
+    top: 0;
+    left: 370px;
+}
+
+#b18 {
+    top: 20px;
+    left: 370px;
+}
+
+#b19 {
+    top: 40px;
+    left: 370px;
+}
+
+#b20 {
+    top: 60px;
+    left: 370px;
+}
+
+#b21 {
+    top: 80px;
+    left: 390px;
+}
+
+#b22 {
+    top: 100px;
+    left: 390px;
+}
+
+#b23 {
+    top: 120px;
+    left: 390px;
+}
+
+#b24 {
+    top: 140px;
+    left: 370px;
+}
+
+#b25 {
+    top: 160px;
+    left: 370px;
+}
+
+#b26 {
+    top: 180px;
+    left: 370px;
+}
+
+#b27 {
+    top: 180px;
+    left: 350px;
+}
+
+#b28 {
+    top: 180px;
+    left: 390px;
+}
+
+#b29 {
+    top: 200px;
+    left: 370px;
+}
+
+#b30 {
+    top: 220px;
+    left: 370px;
+}
+
+#b31 {
+    top: 240px;
+    left: 350px;
+}
+
+#b32 {
+    top: 260px;
+    left: 350px;
+}
+
+#b33 {
+    top: 260px;
+    left: 330px;
+}
+
+#b34 {
+    top: 260px;
+    left: 310px;
+}
+
+#b35 {
+    top: 260px;
+    left: 290px;
+}
+
+#b36 {
+    top: 260px;
+    left: 270px;
+}
+
+#b37 {
+    top: 260px;
+    left: 250px;
+}
+
+#b38 {
+    top: 260px;
+    left: 230px;
+}
+
+#b39 {
+    top: 260px;
+    left: 210px;
+}
+
+#b40 {
+    top: 240px;
+    left: 190px;
+}
+
+#b41 {
+    top: 240px;
+    left: 170px;
+}
+
+#b42 {
+    top: 240px;
+    left: 150px;
+}
+
+#b43 {
+    top: 240px;
+    left: 130px;
+}
+
+#b44 {
+    top: 240px;
+    left: 110px;
+}
+
+#b45 {
+    top: 240px;
+    left: 90px;
+}
+
+#b46 {
+    top: 240px;
+    left: 70px;
+}
+
+#b47 {
+    top: 240px;
+    left: 50px;
+}
+
+#b48 {
+    top: 240px;
+    left: 30px;
+}
+
+#b49 {
+    top: 220px;
+    left: 50px;
+}
+
+#b50 {
+    top: 200px;
+    left: 70px;
+}
+
+#b51 {
+    top: 180px;
+    left: 90px;
+}
+
+#b52 {
+    top: 160px;
+    left: 110px;
+}
+
+#b53 {
+    top: 160px;
+    left: 90px;
+}
+
+#b54 {
+    top: 160px;
+    left: 70px;
+}
+
+#b55 {
+    top: 160px;
+    left: 50px;
+}
+
+#b56 {
+    top: 160px;
+    left: 30px;
+}
+
+#b57 {
+    top: 160px;
+    left: 10px;
+}
+
+#b58 {
+    top: 140px;
+    left: 30px;
+}
+
+#b59 {
+    top: 120px;
+    left: 50px;
+}
+
+#b60 {
+    top: 100px;
+    left: 70px;
+}
+
+#b61 {
+    top: 80px;
+    left: 90px;
+}
+
+#b62 {
+    top: 60px;
+    left: 70px;
+}
+
+#b63 {
+    top: 40px;
+    left: 50px;
+}
+
+#b64 {
+    top: 20px;
+    left: 30px;
+}
+
+#b65 {
+    top: 40px;
+    left: 130px;
+}
+
+#b66 {
+    top: 60px;
+    left: 130px;
+}
+
+#b67 {
+    top: 80px;
+    left: 130px;
+}
+
+#b68 {
+    top: 180px;
+    left: 310px;
+}
+
+#b69 {
+    top: 160px;
+    left: 310px;
+}
+
+#b70 {
+    top: 140px;
+    left: 310px;
+}
+
+#b71 {
+    top: 20px;
+    left: 50px;
+}
+
+#b72 {
+    top: 20px;
+    left: 70px;
+}
+
+#b73 {
+    top: 20px;
+    left: 90px;
+}
+
+#b74 {
+    top: 20px;
+    left: 110px;
+}
+
+#b75 {
+    top: 20px;
+    left: 130px;
+}
+
+#b76 {
+    top: 20px;
+    left: 150px;
+}
+
+#b77 {
+    top: 20px;
+    left: 170px;
+}
+
+#b78 {
+    top: 20px;
+    left: 190px;
+}
+
+#b79 {
+    top: 20px;
+    left: 210px;
+}
+
+#b80 {
+    top: 20px;
+    left: 230px;
+}
+
+#b81 {
+    top: 20px;
+    left: 250px;
+}
+
+#b82 {
+    top: 20px;
+    left: 270px;
+}
+
+#b83 {
+    top: 40px;
+    left: 70px;
+}
+
+#b84 {
+    top: 40px;
+    left: 90px;
+}
+
+#b85 {
+    top: 40px;
+    left: 110px;
+}
+
+#b86 {
+    top: 60px;
+    left: 90px;
+}
+
+#b87 {
+    top: 60px;
+    left: 110px;
+}
+
+#b88 {
+    top: 80px;
+    left: 110px;
+}
+
+#b89 {
+    top: 100px;
+    left: 90px;
+}
+
+#b90 {
+    top: 120px;
+    left: 70px;
+}
+
+#b91 {
+    top: 140px;
+    left: 50px;
+}
+
+#b92 {
+    top: 140px;
+    left: 70px;
+}
+
+#b93 {
+    top: 140px;
+    left: 90px;
+}
+
+#b94 {
+    top: 140px;
+    left: 110px;
+}
+
+#b95 {
+    top: 120px;
+    left: 90px;
+}
+
+#b96 {
+    top: 120px;
+    left: 110px;
+}
+
+#b97 {
+    top: 100px;
+    left: 110px;
+}
+
+#b98 {
+    top: 40px;
+    left: 170px;
+}
+
+#b99 {
+    top: 40px;
+    left: 190px;
+}
+
+#b100 {
+    top: 40px;
+    left: 210px;
+}
+
+#b101 {
+    top: 40px;
+    left: 230px;
+}
+
+#b102 {
+    top: 40px;
+    left: 250px;
+}
+
+#b103 {
+    top: 40px;
+    left: 270px;
+}
+
+#b104 {
+    top: 40px;
+    left: 290px;
+}
+
+#b105 {
+    top: 40px;
+    left: 310px;
+}
+
+#b106 {
+    top: 40px;
+    left: 330px;
+}
+
+#b107 {
+    top: 40px;
+    left: 350px;
+}
+
+#b108 {
+    top: 20px;
+    left: 350px;
+}
+
+#b109 {
+    top: 60px;
+    left: 190px;
+}
+
+#b110 {
+    top: 60px;
+    left: 210px;
+}
+
+#b111 {
+    top: 60px;
+    left: 230px;
+}
+
+#b112 {
+    top: 60px;
+    left: 250px;
+}
+
+#b113 {
+    top: 60px;
+    left: 270px;
+}
+
+#b114 {
+    top: 60px;
+    left: 290px;
+}
+
+#b115 {
+    top: 60px;
+    left: 310px;
+}
+
+#b116 {
+    top: 60px;
+    left: 330px;
+}
+
+#b117 {
+    top: 60px;
+    left: 350px;
+}
+
+#b118 {
+    top: 80px;
+    left: 170px;
+}
+
+#b119 {
+    top: 80px;
+    left: 190px;
+}
+
+#b120 {
+    top: 80px;
+    left: 210px;
+}
+
+#b121 {
+    top: 80px;
+    left: 230px;
+}
+
+#b122 {
+    top: 80px;
+    left: 250px;
+}
+
+#b123 {
+    top: 80px;
+    left: 270px;
+}
+
+#b124 {
+    top: 80px;
+    left: 290px;
+}
+
+#b125 {
+    top: 80px;
+    left: 310px;
+}
+
+#b126 {
+    top: 80px;
+    left: 330px;
+}
+
+#b127 {
+    top: 80px;
+    left: 350px;
+}
+
+#b128 {
+    top: 80px;
+    left: 370px;
+}
+
+#b129 {
+    top: 100px;
+    left: 130px;
+}
+
+#b130 {
+    top: 100px;
+    left: 150px;
+}
+
+#b131 {
+    top: 100px;
+    left: 170px;
+}
+
+#b132 {
+    top: 100px;
+    left: 190px;
+}
+
+#b133 {
+    top: 100px;
+    left: 210px;
+}
+
+#b134 {
+    top: 100px;
+    left: 230px;
+}
+
+#b135 {
+    top: 120px;
+    left: 130px;
+}
+
+#b136 {
+    top: 120px;
+    left: 150px;
+}
+
+#b137 {
+    top: 120px;
+    left: 170px;
+}
+
+#b138 {
+    top: 120px;
+    left: 190px;
+}
+
+#b139 {
+    top: 120px;
+    left: 210px;
+}
+
+#b140 {
+    top: 140px;
+    left: 130px;
+}
+
+#b141 {
+    top: 140px;
+    left: 150px;
+}
+
+#b142 {
+    top: 140px;
+    left: 170px;
+}
+
+#b143 {
+    top: 140px;
+    left: 190px;
+}
+
+#b144 {
+    top: 140px;
+    left: 210px;
+}
+
+#b145 {
+    top: 160px;
+    left: 130px;
+}
+
+#b146 {
+    top: 160px;
+    left: 150px;
+}
+
+#b147 {
+    top: 160px;
+    left: 170px;
+}
+
+#b148 {
+    top: 160px;
+    left: 190px;
+}
+
+#b149 {
+    top: 160px;
+    left: 210px;
+}
+
+#b150 {
+    top: 180px;
+    left: 110px;
+}
+
+#b151 {
+    top: 180px;
+    left: 130px;
+}
+
+#b152 {
+    top: 180px;
+    left: 150px;
+}
+
+#b153 {
+    top: 180px;
+    left: 170px;
+}
+
+#b154 {
+    top: 180px;
+    left: 190px;
+}
+
+#b155 {
+    top: 180px;
+    left: 210px;
+}
+
+#b156 {
+    top: 180px;
+    left: 230px;
+}
+
+#b157 {
+    top: 200px;
+    left: 90px;
+}
+
+#b158 {
+    top: 200px;
+    left: 110px;
+}
+
+#b159 {
+    top: 200px;
+    left: 130px;
+}
+
+#b160 {
+    top: 200px;
+    left: 150px;
+}
+
+#b161 {
+    top: 200px;
+    left: 170px;
+}
+
+#b162 {
+    top: 220px;
+    left: 70px;
+}
+
+#b163 {
+    top: 220px;
+    left: 90px;
+}
+
+#b164 {
+    top: 220px;
+    left: 110px;
+}
+
+#b165 {
+    top: 220px;
+    left: 130px;
+}
+
+#b166 {
+    top: 220px;
+    left: 150px;
+}
+
+#b167 {
+    top: 220px;
+    left: 170px;
+}
+
+#b168 {
+    top: 100px;
+    left: 330px;
+}
+
+#b169 {
+    top: 120px;
+    left: 330px;
+}
+
+#b170 {
+    top: 140px;
+    left: 330px;
+}
+
+#b171 {
+    top: 120px;
+    left: 350px;
+}
+
+#b172 {
+    top: 100px;
+    left: 350px;
+}
+
+#b173 {
+    top: 120px;
+    left: 370px;
+}
+
+#b174 {
+    top: 100px;
+    left: 370px;
+}
+
+#b175 {
+    top: 100px;
+    left: 310px;
+}
+
+#b176 {
+    top: 220px;
+    left: 350px;
+}
+
+#b177 {
+    top: 220px;
+    left: 330px;
+} 
+
+#b178 {
+    top: 220px;
+    left: 310px;
+}
+
+#b179 {
+    top: 220px;
+    left: 290px;
+}
+
+#b180 {
+    top: 220px;
+    left: 270px;
+}
+
+#b181 {
+    top: 220px;
+    left: 250px;
+}
+
+#b182 {
+    top: 220px;
+    left: 230px;
+}
+
+#b183 {
+    top: 220px;
+    left: 210px;
+}
+
+#b184 {
+    top: 220px;
+    left: 190px;
+}
+
+#b185 {
+    top: 240px;
+    left: 210px;
+}
+
+#b186 {
+    top: 240px;
+    left: 230px;
+}
+
+#b187 {
+    top: 240px;
+    left: 250px;
+}
+
+#b188 {
+    top: 240px;
+    left: 270px;
+}
+
+#b189 {
+    top: 240px;
+    left: 290px;
+}
+
+#b190 {
+    top: 240px;
+    left: 310px;
+}
+
+#b191 {
+    top: 240px;
+    left: 330px;
+}
+
+#b192 {
+    top: 200px;
+    left: 190px;
+}
+
+#b193 {
+    top: 200px;
+    left: 210px;
+}
+
+#b194 {
+    top: 200px;
+    left: 230px;
+}
+
+#b195 {
+    top: 200px;
+    left: 330px;
+}
+
+#b196 {
+    top: 200px;
+    left: 350px;
+}
+
+#b197 {
+    top: 60px;
+    left: 170px;
+}
+
+#b198 {
+    top: 60px;
+    left: 150px;
+}
+
+#b199 {
+    top: 80px;
+    left: 150px;
+}
+
+#b200 {
+    top: 40px;
+    left: 150px;
+}
+
+#b201 {
+    top: 260px;
+    left: 170px;
+}
+
+#b202 {
+    top: 280px;
+    left: 150px;
+}
+
+#b203 {
+    top: 300px;
+    left: 130px;
+}
+
+#b204 {
+    top: 320px;
+    left: 130px;
+}
+
+#b205 {
+    top: 320px;
+    left: 150px;
+}
+
+#b206 {
+    top: 340px;
+    left: 150px;
+}
+
+#b207 {
+    top: 300px;
+    left: 170px;
+}
+
+#b208 {
+    top: 280px;
+    left: 190px;
+}
