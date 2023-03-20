@@ -14,10 +14,9 @@
 
 #container {
     position: relative;
-    max-width: 50em;
-    height: 99.5vh;
-    margin: auto;
-    border: 1px solid;
+    max-width: 27em;
+    height: 80dvh;
+    margin: 8vh auto 0;
 }
 
 .block {
@@ -930,7 +929,7 @@
 #b177 {
     top: 220px;
     left: 330px;
-} 
+}
 
 #b178 {
     top: 220px;
@@ -1085,4 +1084,484 @@
 #b208 {
     top: 280px;
     left: 190px;
+}
+
+#b209 {
+    top: 280px;
+    left: 210px;
+}
+
+#b210 {
+    top: 300px;
+    left: 230px;
+}
+
+#b211 {
+    top: 320px;
+    left: 250px;
+}
+
+#b212 {
+    top: 340px;
+    left: 250px;
+}
+
+#b213 {
+    top: 360px;
+    left: 250px;
+}
+
+#b214 {
+    top: 380px;
+    left: 250px;
+}
+
+#b215 {
+    top: 400px;
+    left: 250px;
+}
+
+#b216 {
+    top: 420px;
+    left: 250px;
+}
+
+#b217 {
+    top: 360px;
+    left: 170px;
+}
+
+#b218 {
+    top: 380px;
+    left: 190px;
+}
+
+#b219 {
+    top: 380px;
+    left: 210px;
+}
+
+#b220 {
+    top: 360px;
+    left: 230px;
+}
+
+#b221 {
+    top: 400px;
+    left: 210px;
+}
+
+#b222 {
+    top: 400px;
+    left: 190px;
+}
+
+#b223 {
+    top: 420px;
+    left: 190px;
+}
+
+#b224 {
+    top: 420px;
+    left: 170px;
+}
+
+#b225 {
+    top: 440px;
+    left: 170px;
+}
+
+#b226 {
+    top: 460px;
+    left: 170px;
+}
+
+#b227 {
+    top: 480px;
+    left: 170px;
+}
+
+#b228 {
+    top: 480px;
+    left: 190px;
+}
+
+#b229 {
+    top: 480px;
+    left: 210px;
+}
+
+#b230 {
+    top: 480px;
+    left: 230px;
+}
+
+#b231 {
+    top: 480px;
+    left: 250px;
+}
+
+#b232 {
+    top: 480px;
+    left: 270px;
+}
+
+#b233 {
+    top: 480px;
+    left: 290px;
+}
+
+#b234 {
+    top: 480px;
+    left: 310px;
+}
+
+#b235 {
+    top: 480px;
+    left: 330px;
+}
+
+#b236 {
+    top: 480px;
+    left: 350px;
+}
+
+#b237 {
+    top: 480px;
+    left: 370px;
+}
+
+#b238 {
+    top: 480px;
+    left: 390px;
+}
+
+#b239 {
+    top: 480px;
+    left: 410px;
+}
+
+#b240 {
+    top: 460px;
+    left: 410px;
+}
+
+#b241 {
+    top: 440px;
+    left: 390px;
+}
+
+#b242 {
+    top: 420px;
+    left: 370px;
+}
+
+#b243 {
+    top: 420px;
+    left: 350px;
+}
+
+#b244 {
+    top: 400px;
+    left: 330px;
+}
+
+#b245 {
+    top: 400px;
+    left: 310px;
+}
+
+#b246 {
+    top: 380px;
+    left: 290px;
+}
+
+#b247 {
+    top: 380px;
+    left: 270px;
+}
+
+#b248 {
+    top: 420px;
+    left: 270px;
+}
+
+#b249 {
+    top: 440px;
+    left: 290px;
+}
+
+#b250 {
+    top: 440px;
+    left: 310px;
+}
+
+#b251 {
+    top: 460px;
+    left: 330px;
+}
+
+#b252 {
+    top: 340px;
+    left: 270px;
+}
+
+#b253 {
+    top: 360px;
+    left: 290px;
+}
+
+#b254 {
+    top: 360px;
+    left: 310px;
+}
+
+#b255 {
+    top: 340px;
+    left: 310px;
+}
+
+#b256 {
+    top: 320px;
+    left: 310px;
+}
+
+#b257 {
+    top: 300px;
+    left: 310px;
+}
+
+#b258 {
+    top: 280px;
+    left: 310px;
+}
+
+#b259 {
+    top: 280px;
+    left: 330px;
+}
+
+#b260 {
+    top: 280px;
+    left: 350px;
+}
+
+#b261 {
+    top: 280px;
+    left: 370px;
+}
+
+#b262 {
+    top: 300px;
+    left: 370px;
+}
+
+#b263 {
+    top: 320px;
+    left: 370px;
+}
+
+#b264 {
+    top: 340px;
+    left: 350px;
+}
+
+#b265 {
+    top: 360px;
+    left: 350px;
+}
+
+#b266 {
+    top: 360px;
+    left: 330px;
+}
+
+#b267 {
+    top: 260px;
+    left: 190px;
+}
+
+#b268 {
+    top: 280px;
+    left: 170px;
+}
+
+#b269 {
+    top: 300px;
+    left: 150px;
+}
+
+#b270 {
+    top: 280px;
+    left: 250px;
+}
+
+#b271 {
+    top: 280px;
+    left: 270px;
+}
+
+#b272 {
+    top: 280px;
+    left: 290px;
+}
+
+#b273 {
+    top: 300px;
+    left: 250px;
+}
+
+#b274 {
+    top: 300px;
+    left: 270px;
+}
+
+#b275 {
+    top: 300px;
+    left: 290px;
+}
+
+#b276 {
+    top: 320px;
+    left: 270px;
+}
+
+#b277 {
+    top: 320px;
+    left: 290px;
+}
+
+#b278 {
+    top: 340px;
+    left: 290px;
+}
+
+#b279 {
+    top: 280px;
+    left: 230px;
+}
+
+#b280 {
+    top: 360px;
+    left: 270px;
+}
+
+#b281 {
+    top: 380px;
+    left: 230px;
+}
+
+#b282 {
+    top: 400px;
+    left: 230px;
+}
+
+#b283 {
+    top: 420px;
+    left: 210px;
+}
+
+#b284 {
+    top: 440px;
+    left: 190px;
+}
+
+#b285 {
+    top: 460px;
+    left: 190px;
+}
+
+#b286 {
+    top: 440px;
+    left: 210px;
+}
+
+#b287 {
+    top: 460px;
+    left: 210px;
+}
+
+#b288 {
+    top: 420px;
+    left: 230px;
+}
+
+#b289 {
+    top: 440px;
+    left: 230px;
+}
+
+#b290 {
+    top: 460px;
+    left: 250px;
+}
+
+#b291 {
+    top: 460px;
+    left: 270px;
+}
+
+#b292 {
+    top: 460px;
+    left: 290px;
+}
+
+#b293 {
+    top: 460px;
+    left: 310px;
+}
+
+#b294 {
+    top: 440px;
+    left: 270px;
+}
+
+#b295 {
+    top: 400px;
+    left: 270px;
+}
+
+#b296 {
+    top: 400px;
+    left: 290px;
+}
+
+#b297 {
+    top: 420px;
+    left: 290px;
+}
+
+#b298 {
+    top: 420px;
+    left: 310px;
+}
+
+#b299 {
+    top: 440px;
+    left: 330px;
+}
+
+#b300 {
+    top: 440px;
+    left: 350px;
+}
+
+#b301 {
+    top: 440px;
+    left: 370px;
+}
+
+#b302 {
+    top: 460px;
+    left: 350px;
+}
+
+#b303 {
+    top: 460px;
+    left: 370px;
+}
+
+#b304 {
+    top: 460px;
+    left: 390px;
 }
